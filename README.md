@@ -36,18 +36,18 @@ I research and build machine learning systems — from data pipelines and featur
 <details open>
 <summary>📄 Research & Publications</summary>
 
-- **[2024]** "Efficient Fine-Tuning of LLMs at Scale" — arxiv.org/abs/xxxx
-- **[2023]** "Real-Time Anomaly Detection in Time-Series Data" — arxiv.org/abs/yyyy
-- **[2022]** "Self-Supervised Representations for Medical Imaging" — NeurIPS Workshop
+- **[2026]** "The Algerian TourismParadox: Attempt at Spatial Quantification Using a Composite Tourism Attractiveness Index"
+- **[2026]** "Social Media comments Sentiment Analysis with Deep Learning"
+- **[2025]** "Estimation of wage equation using panel data (a Wooldridge approach)"
 
 </details>
 
 <details>
 <summary>🤖 Featured ML Projects</summary>
 
-- **llm-fine-tuner** — CLI for LoRA/QLoRA fine-tuning of open-source LLMs
-- **timeseries-bench** — Benchmark suite for time-series forecasting models
-- **cv-pipeline** — Modular computer vision training framework (PyTorch Lightning)
+- **RAG-chatbot** — a Retrieval-Augmented Generation chatbot application made with Gradio and deploied on Huggingface. It combines large language models with external retrieval mechanisms to allow users to interact with and query custom data or documents efficiently through a conversational interface.
+- **gomode** — a Streamlit analytics dashboard for GoMode designed to track and monitor Cash on Delivery (COD) logistics and parcel shipping metrics via the Speedmail API
+- **cv-pipeline** — Detecting face from photo or camera
 
 </details>
 
@@ -56,20 +56,6 @@ I research and build machine learning systems — from data pipelines and featur
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,docker,kubernetes,aws,github,linux&perline=10&theme=dark" />
 </div>
-
-### Data & Tooling 📦
-
-```python
-# A glimpse at my typical experiment setup
-import torch
-from transformers import AutoModelForCausalLM, AutoTokenizer
-from peft import LoraConfig, get_peft_model
-
-model = AutoModelForCausalLM.from_pretrained("mistralai/Mistral-7B-v0.1")
-config = LoraConfig(r=16, lora_alpha=32, target_modules=["q_proj", "v_proj"])
-model = get_peft_model(model, config)
-print(f"Trainable params: {model.num_parameters(only_trainable=True):,}")
-```
 
 <div align="center">
   <img src="https://github-profile-maker.vercel.app/api/divider?bgType=solid&thickness=1&alignment=center&bgSolidColor=2D4A2D&bgStartColor=2D4A2D&bgEndColor=2D4A2D&bgGradientDirection=horizontal" alt="Divider" />
