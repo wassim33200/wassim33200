@@ -42,7 +42,7 @@ I research and build machine learning systems — from data pipelines and featur
 
 </details>
 
-<details>
+<details open>
 <summary>🤖 Featured ML Projects</summary>
 
 - **RAG-chatbot** — a Retrieval-Augmented Generation chatbot application made with Gradio and deploied on Huggingface. It combines large language models with external retrieval mechanisms to allow users to interact with and query custom data or documents efficiently through a conversational interface.
