@@ -1,10 +1,10 @@
-[README.md](https://github.com/user-attachments/files/30245629/README.md)
+[README.md](https://github.com/user-attachments/files/30246109/README.md)
 <div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/capsule?type=soft&color=0A0F0B&colorEnd=1A2F1B&height=180&section=header&text=Data+Scientist+%26+ML+Engineer&fontSize=30&fontColor=ffffff&animation=none&gradientDirection=horizontal&parallax=false&wavePosition=70&waveAmplitude=20&waveSpeed=20&flipWave=false&textAlignX=50&textAlignY=50" />
+  <img src="https://github-profile-maker.vercel.app/api/capsule?type=waving&color=3300ff&colorEnd=ff0000&height=180&section=header&text=Data+Scientist+%26+ML+Engineer&fontSize=42&fontColor=ffffff&animation=wave&gradientDirection=diagonal&parallax=true&wavePosition=56&waveAmplitude=50&waveSpeed=5&flipWave=true&textAlignX=50&textAlignY=50&rtl=0&rtr=0&rbr=0&rbl=0" />
 </div>
 
 <div align="center">
-  <img src="https://github.com/github.png" width="130" height="130" style="border-radius: 15px;" />
+  <img src="https://avatars.githubusercontent.com/u/109911566?v=4" width="130" height="130" style="border-radius: 15px;" />
 </div>
 
 <h1 align="center">Turning data into decisions 🧠</h1>
@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:research@yoursite.ai) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yoursite.ai)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wassim33200) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wassim33200) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamdiwassim24@gamil.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://wassim.site)
 </div>
 
 <div align="center">
@@ -67,21 +67,10 @@ print(f"Trainable params: {model.num_parameters(only_trainable=True):,}")
   <img src="https://github-profile-maker.vercel.app/api/divider?bgType=solid&thickness=1&alignment=center&bgSolidColor=2D4A2D&bgStartColor=2D4A2D&bgEndColor=2D4A2D&bgGradientDirection=horizontal" alt="Divider" />
 </div>
 
-<h2 align="center">GitHub Activity 📊</h2>
-
 <div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/stats?username=wassim33200&theme=merko&layout=standard&show_icons=true&hide_border=false&hide_title=false&hide_rank=false&border_radius=8" alt="GitHub Stats" width="49%" height="230" style="margin-right: 12px;" />
-  <img src="https://github-profile-maker.vercel.app/api/top-langs?username=wassim33200&theme=merko&layout=pie&hide_border=false&hide_progress=false&langs_count=6&border_radius=8" alt="Top Languages" width="49%" height="230" style="" />
+  <img src="https://github-profile-maker.vercel.app/api/quotes?theme=dark&quote=In+God+we+trust%2C+all+others+must+bring+data.&author=W.+Edwards+Deming&textAlign=center&authorAlign=center" alt="Quote" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/activity?username=wassim33200&theme=merko&hide_border=false" alt="Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/quotes?theme=merko&quote=In+God+we+trust%2C+all+others+must+bring+data.&author=W.+Edwards+Deming&textAlign=center&authorAlign=center" alt="Quote" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/capsule?type=waving&color=0A0F0B&colorEnd=1A2F1B&height=100&section=footer&text=Data-driven.+Research-inspired.+Production-ready.&fontSize=24&fontColor=ABD200&animation=none&gradientDirection=horizontal&parallax=false&wavePosition=70&waveAmplitude=20&waveSpeed=20&flipWave=true&textAlignX=50&textAlignY=72" />
+  <img src="https://github-profile-maker.vercel.app/api/capsule?type=waving&color=3300ff&colorEnd=ff0000&height=180&section=header&text=Thank+You&fontSize=42&fontColor=ffffff&animation=wave&gradientDirection=diagonal&parallax=true&wavePosition=40&waveAmplitude=50&waveSpeed=5&flipWave=false&textAlignX=50&textAlignY=50&rtl=0&rtr=0&rbr=0&rbl=0" />
 </div>
