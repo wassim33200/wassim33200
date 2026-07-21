@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="./1784677628358.png" width="130" height="130" style="border-radius: 50%;" alt="Avatar" />
+  <img src="./1784677628358.png" width="250" height="250" style="border-radius: 50%; object-fit: cover;" alt="Avatar" />
 </div>
 
 <h1 align="center">Turning data into decisions 🧠</h1>
