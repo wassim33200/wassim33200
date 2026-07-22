@@ -3,8 +3,14 @@
   <img src="https://github-profile-maker.vercel.app/api/capsule?type=waving&color=3300ff&colorEnd=ff0000&height=180&section=header&text=Data+Scientist+%26+ML+Engineer&fontSize=42&fontColor=ffffff&animation=wave&gradientDirection=diagonal&parallax=true&wavePosition=56&waveAmplitude=50&waveSpeed=5&flipWave=true&textAlignX=50&textAlignY=50&rtl=0&rtr=0&rbr=0&rbl=0" />
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-    <img src="./1784677628358.png" width="300" height="300" style="border-radius: 50%; object-fit: cover; aspect-ratio: 1 / 1;" alt="Large, Round Avatar" />
+<div align="center">
+  <img
+    src="./1784677628358.png"
+    alt="Avatar"
+    width="250"
+    height="250"
+    style="border-radius:50%;"
+  />
 </div>
 
 <h1 align="center">Turning data into decisions 🧠</h1>
