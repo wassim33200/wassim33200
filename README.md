@@ -5,11 +5,10 @@
 
 <div align="center">
   <img
-    src="./1784677628358.png"
+    src="./pp_round.png"
     alt="Avatar"
     width="250"
     height="250"
-    style="border-radius:50%;"
   />
 </div>
 
