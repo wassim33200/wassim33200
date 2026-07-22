@@ -1,6 +1,6 @@
 [README.md](https://github.com/user-attachments/files/30246242/README.md)
 <div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/capsule?type=waving&color=3300ff&colorEnd=ff0000&height=180&section=header&text=Data+Scientist+%26+ML+Engineer&fontSize=42&fontColor=ffffff&animation=wave&gradientDirection=diagonal&parallax=true&wavePosition=56&waveAmplitude=50&waveSpeed=5&flipWave=true&textAlignX=50&textAlignY=50&rtl=0&rtr=0&rbr=0&rbl=0" />
+  <img src="https://github-profile-maker.vercel.app/api/capsule?type=waving&color=3300ff&colorEnd=ff0000&height=180&section=header&text=Data+Scientist+%26+ML+Engineer&fontSize=42&fontColor=ffffff&animation=wave&gradientDirection=diagonal&parallax=true&wavePosition=56&waveAmplitude=50&waveSpeed=5&flipWave=true&textAlignX=60&textAlignY=50&rtl=0&rtr=0&rbr=0&rbl=0" />
 </div>
 
 <div align="center">
