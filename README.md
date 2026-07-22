@@ -7,8 +7,8 @@
   <img
     src="./pp_round.png"
     alt="Avatar"
-    width="250"
-    height="250"
+    width="300"
+    height="300"
   />
 </div>
 
